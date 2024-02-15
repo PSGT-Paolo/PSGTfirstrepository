@@ -11,6 +11,7 @@ namespace MyConsoleApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Mars! Hello again 2");
+            Console.WriteLine("Hello Mars! and Hello Venus:)");
             Console.ReadLine();
         }
     }
