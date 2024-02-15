@@ -12,6 +12,7 @@ namespace MyConsoleApplication
         {
             Console.WriteLine("Hello Mars! and Hello Venus:)");
             Console.ReadLine();
+            //adding some nice comment
         }
     }
 }
